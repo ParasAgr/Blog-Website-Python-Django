@@ -1,1 +1,1 @@
-# Blog-Website-Python-Django-
+# Blog-Website-Python-Django
